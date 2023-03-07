@@ -1,0 +1,12 @@
+[
+    {
+        "code": "c1",
+        "lien": "lien1",
+        "lu": true
+    },
+    {
+        "code": "c2",
+        "lien": "lien2",
+        "lu": false
+    }
+]
